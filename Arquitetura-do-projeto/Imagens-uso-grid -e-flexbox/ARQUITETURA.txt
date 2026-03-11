@@ -1,0 +1,64 @@
+📝Arquitetura do projeto Página de noticiário inicial     
+
+📄Linguagens de programação: HTML/CSS, FLEXBOX E GRID. 
+
+🎯 Objetivo: construir uma página de noticiário inicial que pode ser usado como portfólio para 
+os recrutadores.
+
+🎨CORES DA IMAGEM Design-para-computador.png: 
+
+🔴 - cor vermelha usar o layout grid nas 4 grades vermelhas
+🟢 - cor verde usar o layout flexbox para as 3 caixas verdes 
+
+⚙ ELEMENTOS SEMÂNTICOS QUE SERÃO ADICIONADOS: 
+
+<header>,<main>, <footer>, <aside>, <nav>, <section>
+
+❤ ACESSIBILIDADE PARA PESSOAS COM DEFICIÊNCIA VISUAL: 
+
+alt title
+
+
+🛠 ESCABILIDADE E MANUTENÇÃO: 
+
+✅ BLOCO DE COMENTÁRIOS DE EXPLICATIVOS PARA MANUTENÇÃO FUTURA DO 
+CÓDIGO HTML/CSS. 
+
+✅ "Variables.css" para configurações de estilo da página permitido ajustar e personalizar 
+a página e estilos gerais da página "styles.css".
+
+✅ Adicionar uma folha de estilo cascata chamado responsividade.css responsável pela responsividade 
+para dispositivos móveis mobiles.
+
+📋 INSTRUÇÕES PARA CRIAÇÃO DO PROJETO;
+
+1 - Monte a estrutura HTML adicionando meta tags SEO,semântica e acessibilidade as tags
+
+2 - Monte o layout do noticiário em grid usando propriedades: "grid-template-areas", "grid-area" , 
+"grid-template-rows", "grid-template-columns" é o restante focando cores,fontes,estilos, posicionamentos 
+com flexbox.
+
+3 - Depois de finalizar o projeto peça para inteligência artificial chat gpt análisar o código HTML/CSS 
+verificando boas práticas de programação como flexbox,grid,acessibilidade,semântica, e sugestões de melhorias 
+do código somente o necessário.
+
+🟡CORES PRIMÁRIAS:
+
+✅ LARANJA: hsl(35, 77%, 62%)
+✅ VERMELHO: hsl(5, 85%, 63%) 
+
+
+⚫CORES NEUTRAS:
+
+Off-white: hsl(36, 100%, 99%)
+Grayish blue: hsl(233, 8%, 79%)
+Dark grayish blue: hsl(236, 13%, 42%)
+Very dark blue: hsl(240, 100%, 5%)
+
+
+🖊 TIPOGRAFIA:  
+
+CORPO TAMANHO DA FONTE: 15px
+
+NOME DA FONTE: INTER (Link da fonte:https://fonts.google.com/specimen/Inter)
+- Pesos: 400, 700, 800).
