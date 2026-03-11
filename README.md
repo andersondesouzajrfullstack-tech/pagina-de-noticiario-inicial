@@ -1,6 +1,6 @@
 # 📝 Projeto: Página de noticiário inicial Frontend mentor
 
-![Minecraft Banner](src/imagens/Screenshot-formulário-de-login-cadastro.png)
+![Minecraft Banner](src/imagens/Screenshot-pagina-de-noticiario-inicial.png)
 
 👨‍💻 **Autor:** Anderson de Souza Júnior | Desenvolvedor Fullstack (Em formação)  
 💻 **Tecnologias:** VS Code, HTML5, CSS3, Flexbox e JS básico  
@@ -16,15 +16,8 @@ focando na aplicação real de **HTML5, CSS3, JS básico e Flexbox** para o merc
 
 ## 📝 Sobre o Projeto
 
-Este é um formulário de login/cadastro desenvolvido para capturar informações de entrada do cliente.
-
-O foco principal é a **validação de dados**, garantindo que campos como:
-
-- Nome de usuário  
-- E-mail  
-- Senha  
-
-sejam preenchidos corretamente, evitando dados incompletos ou incorretos no sistema.
+O projeto de noticiário inicial do Frontend mentor é focado em mostrar as notíciais,
+tópicos,categorias,tendências,populares e com barra lateral de notícias dinâmicas que mudam.
 
 ---
 
