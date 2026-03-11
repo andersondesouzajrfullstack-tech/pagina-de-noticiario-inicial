@@ -25,7 +25,8 @@ tópicos,categorias,tendências,populares e com barra lateral de notícias dinâ
 
 - ✅ **Layout Moderno:** Aplicação de Flexbox e boas práticas de design.  
 - ✅ **Semântica e SEO:** Uso de elementos HTML5 e Meta Tags para melhor indexação.  
-- ✅ **Bloco de comentários:** Bloco de comentários explicativos para código HTML/CSS/JS para implementação técnica de novas funcionalidaddes.  
+- ✅ **Bloco de comentários:** Bloco de comentários explicativos para código HTML/CSS/JS para implementação técnica de novas funcionalidaddes.
+- ✅ **Rodapé e principal:** Foram corrigidos bugs no rodapé e principal com sucesso.
 
 ---
 
