@@ -40,7 +40,7 @@ tópicos,categorias,tendências,populares e com barra lateral de notícias dinâ
 
 🔴 **Visualização em Tempo Real:**
 
-- 🌍 [Acessar via GitHub Pages]( https://andersondesouzajrfullstack-tech.github.io/pagina-de-formulario-login-cadastro/)
+- 🌍 [Acessar via GitHub Pages](https://andersondesouzajrfullstack-tech.github.io/pagina-de-noticiario-inicial/)
 
 > Permite que recrutadores explorem e testem o projeto diretamente no navegador.
 
